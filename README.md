@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Ax-cd/order-summary-challenge)
-- Live Site URL: [Add live site URL here](https://ax-cd.github.io/order-summary-challenge/)
+- Live Site URL: (https://ax-cd.github.io/order-summary-challenge/)
 
 
 
